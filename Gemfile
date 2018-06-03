@@ -5,7 +5,7 @@ gem 'rails', '4.2.5'
 # Use SCSS for stylesheets
 
 #bootstrap
-gem 'bootstrap-sass', '~> 3.3.7'
+gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
 
 # Use Uglifier as compressor for JavaScript assets
@@ -47,4 +47,5 @@ end
 
 group :production do
   gem 'pg'
+  gem 'rails_12factor'
 end
