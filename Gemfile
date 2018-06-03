@@ -4,6 +4,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 # Use SCSS for stylesheets
 
+ruby "2.3.5"
+
 #bootstrap
 gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
