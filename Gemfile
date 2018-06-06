@@ -37,6 +37,9 @@ gem 'spring',        group: :development
 
 #gem 'sinatra', '1.0'
 
+gem 'devise'
+gem 'devise-i18n'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
